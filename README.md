@@ -17,9 +17,4 @@ This repository contains a simple implementation of few-shot learning on the CIF
 - scikit-learn
 - numpy
 
-## Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/few-shot-learning-cifar100.git
-   cd few-shot-learning-cifar100
