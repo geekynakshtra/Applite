@@ -97,3 +97,6 @@ f1 = f1_score(labels, preds, average='macro')
 print(f'Precision: {precision:.4f}')
 print(f'Recall: {recall:.4f}')
 print(f'F1 Score: {f1:.4f}')
+
+
+#This is just a working model if you say I can increase its accuracy by making changes in it.
