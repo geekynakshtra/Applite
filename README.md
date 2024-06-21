@@ -10,7 +10,7 @@ torchvision
 numpy
 scikit-learn
 
-#Code Explanation
+# Code Explanation
 1. Data Preparation
 Transforms: Applied various data augmentations for the training set and normalization for both training and test sets.
 Few-Shot Dataset: Created a subset of the training dataset with a limited number of samples per class.
@@ -27,7 +27,7 @@ Evaluated the model on the test dataset and computed metrics such as accuracy, p
 
 
 
-Future Work
+# Future Work
 Hyperparameter Tuning: Experiment with different hyperparameters to improve model performance.
 Data Augmentation: Explore additional data augmentation techniques to enhance the model's robustness.
 Advanced Models: Test other pre-trained models and compare their performance with ResNet50.
