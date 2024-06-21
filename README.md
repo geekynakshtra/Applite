@@ -1,20 +1,15 @@
 # Applite
-# Few-Shot Learning on CIFAR-100 with MobileNetV2
+# Few-Shot Learning on CIFAR-100 
 
-This repository contains a simple implementation of few-shot learning on the CIFAR-100 dataset using a pre-trained MobileNetV2 model. The goal is to demonstrate how to fine-tune a pre-trained model on a small subset of data for each class.
+This project demonstrates a few-shot learning approach using a pre-trained ResNet50 model on the CIFAR-100 dataset. Few-shot learning aims to train a model with a limited number of samples per class. This project includes data preparation, model training, evaluation, and computing various performance metrics such as accuracy, precision, recall, and F1 score.
 
-## Overview
+# Requirements
+Python 3.7+
+PyTorch
+torchvision
+numpy
+scikit-learn
 
-- **Dataset**: CIFAR-100
-- **Model**: MobileNetV2 pre-trained on ImageNet
-- **Task**: Few-shot learning with 5 examples per class
 
-## Requirements
-
-- Python 3.x
-- PyTorch
-- torchvision
-- scikit-learn
-- numpy
 
 
