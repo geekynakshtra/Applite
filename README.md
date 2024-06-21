@@ -28,9 +28,9 @@ Evaluated the model on the test dataset and computed metrics such as accuracy, p
 
 
 # Future Work
-Hyperparameter Tuning: Experiment with different hyperparameters to improve model performance.
-Data Augmentation: Explore additional data augmentation techniques to enhance the model's robustness.
-Advanced Models: Test other pre-trained models and compare their performance with ResNet50.
-Visualization: Implement visualizations for data augmentation effects and training progress.
+1.Hyperparameter Tuning: Experiment with different hyperparameters to improve model performance.
+2.Data Augmentation: Explore additional data augmentation techniques to enhance the model's robustness.
+3.Advanced Models: Test other pre-trained models and compare their performance with ResNet50.
+4.Visualization: Implement visualizations for data augmentation effects and training progress.
 
 
